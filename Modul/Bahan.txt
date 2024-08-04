@@ -1,0 +1,13 @@
+Architecture Vision
+
+1. Pada tahapan ini beri-
+sikan pertanyaan-pertanyaan yang diajukan untuk menda-
+patkan arsitektur yang ideal.
+
+2. menentukan kebutuhan sebagai perancangan arsitektur system informasi yang terdiri dari profil organisasi,
+pendefinisian visi dan misi organisasi, tujuan organisasi, sasaran organisasi, proses bisnis organisasi, unit
+organisasi dan kondisi arsitektur saat ini.
+
+3. -
+4. Kondisi saat ini
+5. 
