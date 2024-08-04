@@ -1,0 +1,12 @@
+sudo apt update
+sudo apt install r-base
+sudo apt install git
+R --version && git --version
+git clone https://github.com/hanggaa/Prak-Jarkom.git
+sudo -i R
+install.packages('Rcpp')
+dir && R --version && git --version
+install.packages('shiny')
+sudo apt install libcurl4-openssl-dev
+sudo apt install libssl-dev
+R -e "shiny::runApp(host='0.0.0.0', port=11xx)"

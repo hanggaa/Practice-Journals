@@ -1,0 +1,13 @@
+1. Buat VM sesuai qwiklabs dan network tags (web-server-kelompokX)
+2. Command sudo apt update
+3. Command sudo apt install r-base
+4. Command sudo apt install git
+5. git clone https://github.com/hanggaa/Prak-Jarkom.git
+6. Install Rcpp
+----------------------------------------------------------------
+7. Setting firewall rules
+8. Install shiny
+9. Install curl (sudo apt install libcurl4-openssl-dev)
+10. Install libssl (sudo apt install libssl-dev)
+R -e "shiny::runApp(host='0.0.0.0', port=1111)"
+R -e "shiny::runApp(host='0.0.0.0', port=0069)"
