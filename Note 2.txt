@@ -1,0 +1,13 @@
+Utang = Kita punya utang ke orang lain
+Piutang = Orang lain punya utang ke kita
+
+Laba Rugi = Income Statement
+Neraca = Balance Sheet
+
+New Product > New Inventories (2 maks) > New Ingredients > New Supplier > Purchase Order >
+Asset Management > POS > Big Sales
+
+Format
+Barang-Nama-UAS
+Nasi Kucing-Hangga-UAS
+Mio Mberr-Hangga-UAS

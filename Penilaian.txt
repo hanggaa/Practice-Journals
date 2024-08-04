@@ -1,0 +1,15 @@
+Tepat waktu 100
+Tidak rapi 98
+SS Sama 98
+Word + tidak rapi 96
+SS Sama > 2 95
+Telat 
+< 6 jam 85
+= 1 hari 80
+= 2 hari 77
+= 3 hari 74
+= 4 hari 68
+= 5 hari 65
+= 6 hari 62
+= 7 hari 56
+Mengumpulkan modul asdos 56

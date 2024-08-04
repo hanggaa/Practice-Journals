@@ -1,0 +1,29 @@
+*Kas Perusahaan*
+Kas Besar
+Kas Kecil
+Kas Kasir
+
+*Aset Tetap*
+Tanah
+Peralatan Kantor
+Peralatan Kitchen
+Gedung Bangunan
+Kendaraan
+Peralatan Kantor Lainnya
+
+*Perlengkapan*
+Lisensi/Hak Paten
+Perlengkapan Outlet
+Perlengkapan Kantor
+Perlengkapan Produksi
+
+*Akumulasi Penyusutan*
+Akumulasi Penyusutan Kantor
+Akumulasi Penyusutan Peralatan Kitchen
+Akumulasi Penyusutan Kendaraan
+Akumulasi Penyusutan Peralatan Kantor Lainnya
+
+*Expenses*
+Beban Penyusutan Peralatan Kantor
+Beban Penyusutan Peralatan Kitchen
+Beban Penyusutan Kendaraan
